@@ -1,0 +1,16 @@
+{
+  "name": "video-editor",
+  "version": "1.0.0",
+  "description": "Reusable Claude video editing skill using HyperFrames",
+  "main": "index.js",
+  "scripts": {
+    "doctor": "hyperframes doctor"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.14.2",
+    "hyperframes": "^0.8.181"
+  }
+}

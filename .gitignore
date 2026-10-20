@@ -1,0 +1,6 @@
+node_modules/
+projects/*/assets/footage/
+projects/*/edit/
+projects/*/exports/*.mp4
+!projects/demo/exports/demo_draft_30fps.mp4
+.DS_Store
